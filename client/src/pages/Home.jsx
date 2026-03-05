@@ -45,22 +45,22 @@ const Home = () => {
     { 
       title: t('services.janitorial'), 
       desc: t('services.janitorial_desc'), 
-      img: '/img/commercial-cleaning.jpg' 
+      img: 'img/commercial-cleaning.jpg' 
     },
     { 
       title: t('services.residential'), 
       desc: t('services.residential_desc'), 
-      img: '/img/residential-cleaning.jpg' 
+      img: 'img/residential-cleaning.jpg' 
     },
     { 
       title: t('services.carpet'), 
       desc: t('services.carpet_desc'), 
-      img: '/img/carpet-machine.jpg' 
+      img: 'img/carpet-machine.jpg' 
     },
     { 
       title: t('services.moving'), 
       desc: t('services.moving_desc'), 
-      img: '/img/moving-service.jpg' 
+      img: 'img/moving-service.jpg' 
     }
   ];
 
@@ -77,7 +77,7 @@ const Home = () => {
       <section className="relative h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="/img/hero-cleaning.jpg" 
+            src="img/hero-cleaning.jpg" 
             alt="Island Hands Cleaning" 
             className="w-full h-full object-cover"
           />
@@ -236,11 +236,11 @@ const Home = () => {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <div className="space-y-4">
-              <img src="/img/equipment-van-1.jpg" alt="Our Van" className="rounded-xl shadow-md w-full h-64 object-cover" />
-              <img src="/img/equipment-closeup.jpg" alt="Equipment" className="rounded-xl shadow-md w-full h-48 object-cover" />
+              <img src="img/equipment-van-1.jpg" alt="Our Van" className="rounded-xl shadow-md w-full h-64 object-cover" />
+              <img src="img/equipment-closeup.jpg" alt="Equipment" className="rounded-xl shadow-md w-full h-48 object-cover" />
             </div>
             <div className="pt-8">
-              <img src="/img/equipment-van-2.jpg" alt="Equipment" className="rounded-xl shadow-md w-full h-[360px] object-cover" />
+              <img src="img/equipment-van-2.jpg" alt="Equipment" className="rounded-xl shadow-md w-full h-[360px] object-cover" />
             </div>
           </div>
         </div>

@@ -29,7 +29,7 @@ const About = () => {
             </p>
           </div>
           <div className="relative">
-            <img src="/img/training-certificate.jpg" alt="Training Certificate" className="rounded-2xl shadow-2xl w-full h-auto border-8 border-white" />
+            <img src="img/training-certificate.jpg" alt="Training Certificate" className="rounded-2xl shadow-2xl w-full h-auto border-8 border-white" />
             <div className="absolute -bottom-6 -right-6 bg-brand-accent text-white p-6 rounded-xl shadow-xl hidden md:block">
               <span className="text-4xl font-black block">100%</span>
               <span className="text-sm font-bold uppercase tracking-wider">Committed to Quality</span>
@@ -73,21 +73,21 @@ const About = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="relative group overflow-hidden rounded-2xl h-64">
-            <img src="/img/commercial-cleaning.jpg" alt="Municipal" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+            <img src="img/commercial-cleaning.jpg" alt="Municipal" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
             <div className="absolute inset-0 bg-brand-blue/70 flex flex-col justify-end p-6">
               <h3 className="text-white text-xl font-bold">Municipal & Government</h3>
               <p className="text-gray-300 text-sm">Public buildings, schools, and local facilities.</p>
             </div>
           </div>
           <div className="relative group overflow-hidden rounded-2xl h-64">
-            <img src="/img/floor-cleaning-office.jpg" alt="Commercial" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+            <img src="img/floor-cleaning-office.jpg" alt="Commercial" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
             <div className="absolute inset-0 bg-brand-blue/70 flex flex-col justify-end p-6">
               <h3 className="text-white text-xl font-bold">Commercial Businesses</h3>
               <p className="text-gray-300 text-sm">Offices, retail spaces, and property management.</p>
             </div>
           </div>
           <div className="relative group overflow-hidden rounded-2xl h-64">
-            <img src="/img/residential-cleaning.jpg" alt="Residential" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+            <img src="img/residential-cleaning.jpg" alt="Residential" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
             <div className="absolute inset-0 bg-brand-blue/70 flex flex-col justify-end p-6">
               <h3 className="text-white text-xl font-bold">Residential Homes</h3>
               <p className="text-gray-300 text-sm">Private residences and vacation rentals.</p>

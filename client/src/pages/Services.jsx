@@ -9,19 +9,19 @@ const Services = () => {
     {
       title: t('services.janitorial'),
       desc: t('services.janitorial_desc'),
-      img: '/img/commercial-cleaning.jpg',
+      img: 'img/commercial-cleaning.jpg',
       features: ['Daily/Weekly maintenance', 'Floor care & waxing', 'Sanitization protocols', 'Restroom deep cleaning']
     },
     {
       title: t('services.carpet'),
       desc: t('services.carpet_desc'),
-      img: '/img/carpet-machine.jpg',
+      img: 'img/carpet-machine.jpg',
       features: ['Deep steam extraction', 'Stain & odor removal', 'Quick drying times', 'Fabric protection']
     },
     {
       title: t('services.sanitizing'),
       desc: t('services.sanitizing_desc'),
-      img: '/img/sanitizing-backpack.jpg',
+      img: 'img/sanitizing-backpack.jpg',
       features: ['EPA-approved disinfectants', 'Large area coverage', 'Safe for all surfaces', 'Health-focused approach']
     }
   ];
@@ -30,13 +30,13 @@ const Services = () => {
     {
       title: t('services.residential'),
       desc: t('services.residential_desc'),
-      img: '/img/residential-cleaning.jpg',
+      img: 'img/residential-cleaning.jpg',
       features: ['Standard & deep cleans', 'Move-in/Move-out', 'Post-construction', 'Eco-friendly options']
     },
     {
       title: t('services.moving'),
       desc: t('services.moving_desc'),
-      img: '/img/moving-service.jpg',
+      img: 'img/moving-service.jpg',
       features: ['Furniture assembly', 'Loading & unloading', 'Delivery & pickup', 'Heavy lifting']
     }
   ];
@@ -146,7 +146,7 @@ const Services = () => {
       <section className="py-24 bg-white max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
-            <img src="/img/bathroom-safety.jpg" alt="Safety Standard" className="rounded-2xl shadow-xl w-full h-[400px] object-cover" />
+            <img src="img/bathroom-safety.jpg" alt="Safety Standard" className="rounded-2xl shadow-xl w-full h-[400px] object-cover" />
           </div>
           <div className="order-1 lg:order-2">
             <h2 className="text-3xl font-bold text-brand-blue mb-6">{t('services.safety_title')}</h2>

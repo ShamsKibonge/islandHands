@@ -23,26 +23,12 @@ const Contact = () => {
     setIsSubmitting(true);
     setStatus({ type: '', message: '' });
 
-    try {
-      const response = await fetch('http://localhost:5000/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData)
-      });
-
-      const result = await response.json();
-
-      if (response.ok) {
-        setStatus({ type: 'success', message: 'Thank you! Your request has been sent successfully.' });
-        setFormData({ name: '', email: '', phone: '', service: '', message: '' });
-      } else {
-        setStatus({ type: 'error', message: result.error || 'Something went wrong. Please try again.' });
-      }
-    } catch (error) {
-      setStatus({ type: 'error', message: 'Connection failed. Please check if the server is running.' });
-    } finally {
+    // Simulate an API call delay
+    setTimeout(() => {
+      setStatus({ type: 'success', message: 'Thank you! Your request has been sent successfully (Demo Mode).' });
+      setFormData({ name: '', email: '', phone: '', service: '', message: '' });
       setIsSubmitting(false);
-    }
+    }, 1000);
   };
 
   const serviceTypes = [
@@ -61,7 +47,7 @@ const Contact = () => {
       <section className="relative py-24 flex items-center justify-center">
         <div className="absolute inset-0">
           <img 
-            src="/img/floor-cleaning-office.jpg" 
+            src="img/floor-cleaning-office.jpg" 
             alt="Contact Us" 
             className="w-full h-full object-cover"
           />
