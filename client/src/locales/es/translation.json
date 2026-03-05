@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "request_quote": "Solicitar una cotización"
+  },
+  "hero": {
+    "headline": "Island Hands, LLC",
+    "subheadline": "Socio profesional de instalaciones y servicios en Bainbridge Island",
+    "cta": "Solicitar una cotización",
+    "explore": "Explorar servicios"
+  },
+  "trust": {
+    "insured": "Asegurado y fianza",
+    "fast": "Respuesta rápida",
+    "local": "Local de Bainbridge",
+    "commercial": "Contratos comerciales"
+  },
+  "home": {
+    "services_title": "Nuestros servicios principales",
+    "services_subtitle": "Brindamos una amplia gama de servicios profesionales tanto para instalaciones comerciales como para hogares residenciales en el condado de Kitsap.",
+    "how_it_works_title": "Cómo funciona",
+    "equipment_title": "Equipo profesional. Resultados probados.",
+    "equipment_desc": "Utilizamos equipos de grado comercial y técnicas líderes en la industria para garantizar que su instalación u hogar se limpie con los más altos estándares.",
+    "equipment_feat1": "Equipo de conserjería comercial especializado",
+    "equipment_feat2": "Opciones de limpieza respetuosas con el medio ambiente",
+    "equipment_feat3": "Personal totalmente capacitado y con antecedentes verificados",
+    "equipment_cta": "Conozca nuestra credibilidad",
+    "cta_title": "¿Listo para una limpieza profesional?",
+    "cta_subtitle": "Comuníquese con Island Hands, LLC hoy para obtener un presupuesto gratuito para su proyecto comercial o residencial.",
+    "cta_button": "Obtenga su cotización gratuita"
+  },
+  "steps": {
+    "step1_title": "Solicitar una cotización",
+    "step1_desc": "Complete nuestro formulario en línea o llámenos para informarnos sobre su proyecto.",
+    "step2_title": "Consulta gratuita",
+    "step2_desc": "Revisamos sus necesidades y proporcionamos una estimación profesional y transparente.",
+    "step3_title": "Trabajo bien hecho",
+    "step3_desc": "Nuestro equipo experimentado llega a tiempo y brinda un servicio de alta calidad."
+  },
+  "services": {
+    "title": "Nuestros servicios profesionales",
+    "subtitle": "Desde instalaciones municipales hasta residencias privadas, brindamos servicios confiables y de alta calidad en toda la isla de Bainbridge.",
+    "commercial_title": "Comercial y Municipal",
+    "residential_title": "Servicios Residenciales",
+    "learn_more": "Más información",
+    "janitorial": "Servicios de conserjería",
+    "janitorial_desc": "Soluciones comerciales y municipales para instalaciones de todos los tamaños.",
+    "residential": "Limpieza residencial",
+    "residential_desc": "Limpieza de arriba a abajo para hogares y oficinas.",
+    "carpet": "Limpieza de alfombras",
+    "carpet_desc": "Extracción profesional y eliminación de manchas.",
+    "moving": "Mudanza y entrega",
+    "moving_desc": "Mano de obra profesional para sus traslados y recogidas locales.",
+    "sanitizing": "Servicios de Desinfección",
+    "sanitizing_desc": "Desinfección avanzada mediante pulverizadores de mochila para una cobertura completa.",
+    "ready_badge": "LISTO PARA B2B Y GOBIERNO",
+    "ready_title": "Listo para lo Comercial y Municipal",
+    "ready_desc": "Island Hands, LLC está equipada para manejar las demandas únicas de los contratos municipales y comerciales. Priorizamos la seguridad, el equipo profesional y la confiabilidad constante.",
+    "safety_title": "La seguridad es nuestra máxima prioridad",
+    "safety_desc": "Ya sea que estemos trabajando en un edificio municipal de mucho tráfico o en un baño privado, seguimos estrictos protocolos de seguridad.",
+    "other_title": "Más soluciones especializadas"
+  },
+  "about": {
+    "title": "Acerca de Island Hands, LLC",
+    "subtitle": "Su socio local de confianza para el mantenimiento de instalaciones y servicios residenciales en Bainbridge Island.",
+    "story_title": "Nuestra historia local",
+    "mission_title": "Nuestra misión y valores",
+    "who_serve_title": "A quién servimos"
+  },
+  "contact": {
+    "title": "Solicite una cotización profesional",
+    "subtitle": "¿Listo para asociarse con Island Hands, LLC? Cuéntenos sobre su proyecto y nos pondremos en contacto con usted en un plazo de 24 horas.",
+    "form_title": "Formulario de solicitud de cotización"
+  }
+}

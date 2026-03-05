@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "about": "关于",
+    "contact": "联系",
+    "request_quote": "索取报价"
+  },
+  "hero": {
+    "headline": "Island Hands, LLC",
+    "subheadline": "班布里奇岛专业的设施和服务合作伙伴",
+    "cta": "索取报价",
+    "explore": "探索服务"
+  },
+  "trust": {
+    "insured": "保险与担保",
+    "fast": "快速响应",
+    "local": "班布里奇本地",
+    "commercial": "商业合同"
+  },
+  "home": {
+    "services_title": "核心服务",
+    "services_subtitle": "我们为基萨普县的商业设施和居民住宅提供广泛的专业服务。",
+    "how_it_works_title": "工作流程",
+    "equipment_title": "专业设备，卓越成果",
+    "equipment_desc": "我们使用商业级设备和行业领先的技术，确保您的设施或住宅达到最高清洁标准。",
+    "equipment_feat1": "专业的商业清洁设备",
+    "equipment_feat2": "环保清洁方案",
+    "equipment_feat3": "经过全面培训和背景调查的员工",
+    "equipment_cta": "了解我们的信誉",
+    "cta_title": "准备好进行专业清洁了吗？",
+    "cta_subtitle": "立即联系 Island Hands, LLC，为您提供商业或住宅项目的免费估价。",
+    "cta_button": "获取免费报价"
+  },
+  "steps": {
+    "step1_title": "索取报价",
+    "step1_desc": "填写我们的在线表格或致电告诉我们您的项目需求。",
+    "step2_title": "免费咨询",
+    "step2_desc": "我们评估您的需求并提供专业、透明的估价。",
+    "step3_title": "完美交付",
+    "step3_desc": "我们的资深团队准时到达并提供高质量的服务。"
+  },
+  "services": {
+    "title": "我们的专业服务",
+    "subtitle": "从市政设施到私人住宅，我们在整个班布里奇岛提供可靠、高质量的服务。",
+    "commercial_title": "商业与市政",
+    "residential_title": "住宅服务",
+    "learn_more": "了解更多",
+    "janitorial": "清洁服务",
+    "janitorial_desc": "为各种规模的设施提供商业和市政解决方案。",
+    "residential": "住宅清洁",
+    "residential_desc": "为家庭和办公室提供从上到下的全面清洁。",
+    "carpet": "地毯清洁",
+    "carpet_desc": "专业的污渍去除服务。",
+    "moving": "搬运与配送",
+    "moving_desc": "为您的本地搬迁和取货提供专业的人力支持。",
+    "sanitizing": "消毒服务",
+    "sanitizing_desc": "使用背负式喷雾器进行高级消毒，确保全面覆盖。",
+    "ready_badge": "B2B 和政府就绪",
+    "ready_title": "商业和市政就绪",
+    "ready_desc": "Island Hands, LLC 具备处理市政和商业合同独特需求的能力。我们优先考虑安全、专业设备和持续的可靠性。",
+    "safety_title": "安全是我们的重中之重",
+    "safety_desc": "无论是在人流量大的市政建筑还是私人浴室工作，我们都遵循严格的安全协议。",
+    "other_title": "更多专业解决方案"
+  },
+  "about": {
+    "title": "关于 Island Hands, LLC",
+    "subtitle": "您在班布里奇岛设施维护和住宅服务方面值得信赖的本地合作伙伴。",
+    "story_title": "我们的本地故事",
+    "mission_title": "我们的使命与价值观",
+    "who_serve_title": "我们的服务对象"
+  },
+  "contact": {
+    "title": "索取专业报价",
+    "subtitle": "准备好与 Island Hands, LLC 合作了吗？告诉我们您的项目需求，我们将在 24 小时内与您联系。",
+    "form_title": "报价申请表"
+  }
+}

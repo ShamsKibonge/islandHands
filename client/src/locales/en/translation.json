@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "request_quote": "Request a Quote"
+  },
+  "hero": {
+    "headline": "Island Hands, LLC",
+    "subheadline": "Professional Facility & Service Partner on Bainbridge Island",
+    "cta": "Request a Quote",
+    "explore": "Explore Services"
+  },
+  "trust": {
+    "insured": "Insured & Bonded",
+    "fast": "Fast Response",
+    "local": "Bainbridge Local",
+    "commercial": "Commercial Contracts"
+  },
+  "home": {
+    "services_title": "Our Core Services",
+    "services_subtitle": "We provide a wide range of professional services for both commercial facilities and residential homes in Kitsap County.",
+    "how_it_works_title": "How It Works",
+    "equipment_title": "Professional Equipment. Proven Results.",
+    "equipment_desc": "We use commercial-grade equipment and industry-leading techniques to ensure your facility or home is cleaned to the highest standards. Our team is trained in safety and efficiency.",
+    "equipment_feat1": "Specialized commercial janitorial equipment",
+    "equipment_feat2": "Environmentally conscious cleaning options",
+    "equipment_feat3": "Fully trained and background-checked staff",
+    "equipment_cta": "Learn About Our Credibility",
+    "cta_title": "Ready for a Professional Clean?",
+    "cta_subtitle": "Contact Island Hands, LLC today for a free estimate on your commercial or residential project.",
+    "cta_button": "Get Your Free Quote"
+  },
+  "steps": {
+    "step1_title": "Request a Quote",
+    "step1_desc": "Fill out our online form or give us a call to tell us about your project.",
+    "step2_title": "Free Consultation",
+    "step2_desc": "We review your needs and provide a professional, transparent estimate.",
+    "step3_title": "Job Done Right",
+    "step3_desc": "Our experienced team arrives on schedule and delivers high-quality service."
+  },
+  "services": {
+    "title": "Our Professional Services",
+    "subtitle": "From municipal facilities to private residences, we provide reliable, high-quality services across Bainbridge Island.",
+    "commercial_title": "Commercial & Municipal",
+    "residential_title": "Residential Services",
+    "learn_more": "Learn More",
+    "janitorial": "Janitorial Services",
+    "janitorial_desc": "Commercial & Municipal solutions for facilities of all sizes.",
+    "residential": "Residential Cleaning",
+    "residential_desc": "Top-to-bottom cleaning for homes and offices.",
+    "carpet": "Carpet Cleaning",
+    "carpet_desc": "Professional extraction and stain removal.",
+    "moving": "Moving & Delivery",
+    "moving_desc": "Professional labor for your local moves and pickups.",
+    "sanitizing": "Sanitizing Services",
+    "sanitizing_desc": "Advanced disinfection using backpack sprayers for complete coverage.",
+    "ready_badge": "B2B & GOVERNMENT READY",
+    "ready_title": "Commercial & Municipal Ready",
+    "ready_desc": "Island Hands, LLC is equipped to handle the unique demands of municipal and commercial contracts. We prioritize safety, professional equipment, and consistent reliability.",
+    "safety_title": "Safety is Our Top Priority",
+    "safety_desc": "Whether we are working in a high-traffic municipal building or a private bathroom, we follow strict safety protocols.",
+    "other_title": "More Specialized Solutions"
+  },
+  "about": {
+    "title": "About Island Hands, LLC",
+    "subtitle": "Your trusted local partner for facility maintenance and residential services on Bainbridge Island.",
+    "story_title": "Our Local Story",
+    "mission_title": "Our Mission & Values",
+    "who_serve_title": "Who We Serve"
+  },
+  "contact": {
+    "title": "Request a Professional Quote",
+    "subtitle": "Ready to partner with Island Hands, LLC? Tell us about your project and we'll get back to you within 24 hours.",
+    "form_title": "Quote Request Form"
+  }
+}

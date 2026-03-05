@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "request_quote": "Demander un devis"
+  },
+  "hero": {
+    "headline": "Island Hands, LLC",
+    "subheadline": "Partenaire professionnel de services et d'installations sur Bainbridge Island",
+    "cta": "Demander un devis",
+    "explore": "Explorer les services"
+  },
+  "trust": {
+    "insured": "Assuré et cautionné",
+    "fast": "Réponse rapide",
+    "local": "Local à Bainbridge",
+    "commercial": "Contrats commerciaux"
+  },
+  "home": {
+    "services_title": "Nos services de base",
+    "services_subtitle": "Nous fournissons une large gamme de services professionnels pour les installations commerciales et les maisons résidentielles du comté de Kitsap.",
+    "how_it_works_title": "Comment ça marche",
+    "equipment_title": "Équipement professionnel. Résultats prouvés.",
+    "equipment_desc": "Nous utilisons un équipement de qualité commerciale et des techniques de pointe pour garantir que votre installation ou votre maison est nettoyée selon les normes les plus élevées.",
+    "equipment_feat1": "Équipement de nettoyage commercial spécialisé",
+    "equipment_feat2": "Options de nettoyage respectueuses de l'environnement",
+    "equipment_feat3": "Personnel entièrement formé et dont les antécédents ont été vérifiés",
+    "equipment_cta": "En savoir plus sur notre crédibilité",
+    "cta_title": "Prêt pour un nettoyage professionnel ?",
+    "cta_subtitle": "Contactez Island Hands, LLC dès aujourd'hui pour un devis gratuit pour votre projet commercial ou résidentiel.",
+    "cta_button": "Obtenez votre devis gratuit"
+  },
+  "steps": {
+    "step1_title": "Demander un devis",
+    "step1_desc": "Remplissez notre formulaire en ligne ou appelez-nous pour nous parler de votre projet.",
+    "step2_title": "Consultation gratuite",
+    "step2_desc": "Nous examinons vos besoins et fournissons une estimation professionnelle et transparente.",
+    "step3_title": "Travail bien fait",
+    "step3_desc": "Notre équipe expérimentée arrive à l'heure et fournit un service de haute qualité."
+  },
+  "services": {
+    "title": "Nos services professionnels",
+    "subtitle": "Des installations municipales aux résidences privées, nous fournissons des services fiables et de haute qualité dans tout Bainbridge Island.",
+    "commercial_title": "Commercial et municipal",
+    "residential_title": "Services résidentiels",
+    "learn_more": "En savoir plus",
+    "janitorial": "Services de conciergerie",
+    "janitorial_desc": "Solutions commerciales et municipales pour les installations de toutes tailles.",
+    "residential": "Nettoyage résidentiel",
+    "residential_desc": "Nettoyage de fond en comble pour les maisons et les bureaux.",
+    "carpet": "Nettoyage de tapis",
+    "carpet_desc": "Extraction professionnelle et élimination des taches.",
+    "moving": "Déménagement et livraison",
+    "moving_desc": "Main-d'œuvre professionnelle pour vos déménagements et ramassages locaux.",
+    "sanitizing": "Services de désinfection",
+    "sanitizing_desc": "Désinfection avancée utilisant des pulvérisateurs à dos pour une couverture complète.",
+    "ready_badge": "PRÊT POUR LE B2B ET LE GOUVERNEMENT",
+    "ready_title": "Prêt pour le commercial et le municipal",
+    "ready_desc": "Island Hands, LLC est équipé pour répondre aux exigences uniques des contrats municipaux et commerciaux. Nous accordons la priorité à la sécurité, à l'équipement professionnel et à une fiabilité constante.",
+    "safety_title": "La sécurité est notre priorité absolue",
+    "safety_desc": "Que nous travaillions dans un bâtiment municipal à forte fréquentation ou dans une salle de bain privée, nous suivons des protocoles de sécurité stricts.",
+    "other_title": "Plus de solutions spécialisées"
+  },
+  "about": {
+    "title": "À propos de Island Hands, LLC",
+    "subtitle": "Votre partenaire local de confiance pour l'entretien des installations et les services résidentiels sur Bainbridge Island.",
+    "story_title": "Notre histoire locale",
+    "mission_title": "Notre mission et nos valeurs",
+    "who_serve_title": "Qui nous servons"
+  },
+  "contact": {
+    "title": "Demander un devis professionnel",
+    "subtitle": "Prêt à vous associer à Island Hands, LLC ? Parlez-nous de votre projet et nous vous répondrons dans les 24 heures.",
+    "form_title": "Formulaire de demande de devis"
+  }
+}
